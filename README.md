@@ -1,2 +1,2 @@
 # Django-Heroku-ToDoApp
-I have deployed mt to-do app project with Heroku!
+I have deployed my to-do app project with Heroku!
