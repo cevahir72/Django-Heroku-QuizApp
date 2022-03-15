@@ -1,2 +1,4 @@
-# Django-Heroku-ToDoApp
-I have deployed my to-do app project with Heroku!
+# Django-Heroku-QuizApp
+I have deployed my quiz app project with Heroku!
+
+https://django-heroku-quiz-app.herokuapp.com/
